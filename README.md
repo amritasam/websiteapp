@@ -48,7 +48,7 @@
   </div>
 </nav>
 
-//copied from w3s bootstrap(carousel)
+// bootstrap(carousel)
 <div id="demo" class="carousel slide" data-ride="carousel">
   <ul class="carousel-indicators">
     <li data-target="#demo" data-slide-to="0" class="active"></li>
@@ -253,6 +253,9 @@
 
  </body>
  </html>
+ 
+ 
+ 
 Userinfo.php page
 <?php  
 
